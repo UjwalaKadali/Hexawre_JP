@@ -1,0 +1,22 @@
+package Exp;
+
+import java.sql.*;
+
+public class Exp1{
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		try {
+			Class.forName("com.mysql.jdbc.Driver");
+			Connection conn =DriverManager.getConnection("jdbc:mysql://localhost:3306/employee","root","Password123");
+			Statement stmt=conn.createStatement();
+			stmt.executeUpdate("insert into emp values(102,'Ram',18,30000,'Manager','03-02-2001','Andhra',798911124,50,4450)");
+			stmt.close();
+			System.out.println("Data saved successfully");
+		}
+		catch (Exception e) {
+			System.out.println(e);
+		}
+	}
+
+}

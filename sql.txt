@@ -1,0 +1,1 @@
+create table Employee(Emp_id varchar(20) primary key, name varchar(50) not null,age int(10),salary double(3,2),designation varchar(20),date_of_birth date not null,place varchar(50)  not null,phone int(20) unique, aadhar_number int(20)unique,PAN varchar(20) unique);
