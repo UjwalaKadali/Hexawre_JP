@@ -1,0 +1,151 @@
+JAVA:-
+
+1)JAVA is an _________ language.
+A) Platform independent 
+
+2)What is the size of float and double in java?
+A) 32 and 64
+
+3)Identify the definition of a package.
+A)A package is a collection of classes and interfaces.
+
+4)the String() method is defined as
+A)java.lang.Object
+
+5)What is theJVM fullform?
+A)Java Virtual machine
+
+6)JDK is used for
+A)Develops libraries and Run
+
+7)What are the data types in java?
+A)Primitive and Non-Primitive data types
+
+8)Boolean data type is used for
+A)true or false
+
+9)Non-Primitive data types are 
+A)Strings, Arrays and Classes
+
+10)Find the output of the following code.
+A)
+
+11)What are the 3 types of loops?
+A)for,while,Do-while
+
+12)What are the 4 basics of OOPS?
+A)Inheritance, Encapsulation, Polymorphism, and Data abstraction
+
+13)The following is a type of polymorphism in Java?
+A)Compile time polymorphism
+
+14)When does method overloading is determined?
+A)At compile time
+
+15)Which concept of Java is achieved by combining methods and attribute into a class?
+A)Encapsulation
+
+16)Inheritance acquries the property from
+A)base to derived
+
+17)Overriding means
+A)when a subclass has the same method as the parent class.
+
+18)What stack memory store in java?
+A)local variables, a reference variable of objects.
+
+19)What heap memory store in java?
+A)objects and JRE classes.
+
+20)Which package contains the Random class?
+A)java.util package
+
+21)What is the constructor used for?
+A)initialize objects
+
+22)An object cannot be created by which class?
+A)Static class
+
+23)which class cannot be inherited by other classes?
+A)final class
+
+24)What is the use of String ()?
+A)manipulate a sequence of characters.
+
+25)What is string command in Java?
+A) String array passed to main().
+
+26)_________is nothing but a storage area in Java heap where string literals stores
+A)String pool
+
+27)How many exception in throw?
+A)Multiple exception
+
+28)In multithreading_______
+A)threads are independant
+
+29)String is_______
+A)immutable
+
+30)What does .equals checks?
+A)contant
+
+31)What is the collection of similar data?
+A)Array
+
+32)Identify the Bitwise NOT operator in Java below.
+A)!
+
+33)Bitwise operators in Java work with?
+A)Individual bits of integers like byte, short, int, long and char
+
+34)What is the output of a Bitwise AND (&) operation if both the inputs/operands are 1s?
+A)1
+
+35)Java Ternary operator can be used with ______
+A)if-else statements,while, do while loops
+
+36)What is exception occurs during compile time
+A)checked exception
+
+37)This class implements the Set interface, backed by_____instance.
+A)HashMap instance
+
+38)Iterator used to  returns true if the list has a next element
+A) boolean hasNext( ):
+
+39)Which classes in Java are used to convert primitive types into corresponding objects?
+A) wrapper classes
+
+40)What is the extension of java code files?
+A).java
+
+41)What is not the use of “this” keyword in Java?
+A)Passing itself to the method of the same class
+
+42) What is Truncation in Java?
+A) Floating-point value assigned to an integer type
+
+43)What is the extension of compiled java classes?
+A) .class
+
+44) Which exception is thrown when java is out of memory?
+A) OutOfMemoryError
+
+45) Which of these are selection statements in Java?
+A)if()
+
+46)What is the numerical range of a char data type in Java?
+A) 0 to 65535
+
+47)Which class provides system independent server side implementation?
+A)ServerSocket
+
+48)Set in Java is an interface declared in
+A) java. util package
+
+49)Byte is a __________ data type
+A)Primitive Data Type
+
+50)Byte stores whole numbers from
+A)-128 to 127

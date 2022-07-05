@@ -1,0 +1,151 @@
+PYTHON:-
+
+1)Python is a
+A)high-level language
+
+2)When was Python created?
+A)1991
+
+3) Identifier names must differ in ________ from any keywords
+A)spelling and case
+
+4)_________ are used for defining integers with bigger lengths than a normal Integer
+A)Long Integers
+
+5)What are 3 types of variables?
+A)Independent, dependent, and controlled.
+
+6)Mapping Data Type is
+A)dict
+
+7)Which datatype are list , tuple , range?
+A)Sequence type
+
+8)Bitwise OR is
+A)|
+
+9)<< operator is used for
+A)Bitwise left shift
+
+10)What is the maximum length of a Python identifier?
+A)No fixed length is specified
+
+11)How is a code block indicated in Python?
+A)Indentation
+
+12)Which of the following statements are used in Exception Handling in Python?
+A)try,except and finally
+
+13)How many types of control structures are there?
+A)4
+
+14)Iteration control structure in python are
+A) while loops and for loops
+
+15)The _____ statement is used to execute both the true part and the false part of a given condition
+A)if-else
+
+16)Is Python case sensitive when dealing with identifiers?
+a) no
+
+17) Which of the following is the correct extension of the Python file?
+A).py
+
+18)Is Python code compiled or interpreted?
+A)neither compiled nor interpreted
+
+19)Which of the following is used to define a block of code in Python language?
+a) Indentation
+
+20)Which of the following character is used to give single-line comments in Python?
+A)#
+
+21) Which of the following is the truncation division operator in Python?
+A)//
+
+22) Which of the following functions is a built-in function in python?
+A)print()
+
+23)Which of the following is the use of id() function in python?
+A)Id returns the identity of the object
+
+24)Which is  not a core data type in Python programming?
+A)Class
+
+25)Strings are 
+A)sequences of character data
+
+26)An integer function is written as
+A)int()
+
+27)To returns the value of x to the power of y is
+A)pow()
+
+28) A module can define 
+A)functions, classes, and variables
+
+29)Numeric Python module is
+A)NumPy
+
+30)The constructor is written as
+A)__init__()
+
+31)Securing data from unauthorized access and in preventing it from being exploited is done by
+A)Access specifier
+
+32)How many inheritance are there in python?
+A)4
+
+33)Is Method overloading a polymorphism?
+A) compile-time polymorphism
+
+34) Which keyword is used for function in Python language?
+A)Def
+
+35) Python supports the creation of anonymous functions at runtime, using a construct called __________
+A)lambda
+
+36)Which of the following is true for variable names in Python?
+A) unlimited length
+
+37)Which one of the following is not a keyword in Python language?
+A)eval
+
+38) Which statements is used to create an empty set in Python?
+A)set()
+
+39)Which of the following function convert a string to a float in python?
+A)float(x)
+
+40)Which module in Python supports regular expressions?
+A)re
+
+41)________ is a simple but incomplete version of a function.
+A)stub
+
+42)To start Python from the command prompt, use the command ______
+A)Python
+
+43)Which of the following is the use of id() function in python?
+A)Id returns the identity of the object
+
+44)time.time() returns ________
+A)the current time in milliseconds since midnight, January 1, 1970 GMT
+
+45)Select the correct function among them which can be used to write the data to perform for a binary output?
+A)Dump
+
+46)The return value for trunc() would be:
+A)int
+
+47)Which function removes a set’s first and the last element from a list?
+A)pop
+
+48)What is the maximum possible length of an identifier?
+A)not defined
+
+49)What do we use to define a block of code in Python language?
+A)Indentation
+
+50)Why does the name of local variables start with an underscore discouraged?
+A)It indicates a private variable of a class
